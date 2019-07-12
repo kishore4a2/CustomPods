@@ -10,7 +10,7 @@
   s.author       = { 'Kishore' => 'kishore@11street.my' }
   s.source       = { :git => "https://github.com/kishore4a2/CustomPods.git", :tag => s.version.to_s }
   s.ios.deployment_target = '10.0'
-  s.source_files = "Nikhila/**/*.{swift}"
+  s.source_files = "Nikhila/**/*.[swift]"
   s.resources = "Nikhila/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
   s.frameworks   = "CoreGraphics", "QuartzCore","UIKit"
   s.requires_arc = true
