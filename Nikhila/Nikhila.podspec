@@ -1,5 +1,5 @@
  Pod::Spec.new do |s|
- s.name         = "NikkiKishore"
+ s.name         = "Nikhila"
   s.version      = "0.1.0"
   s.summary      = "Test pods"
   s.description  = <<-DESC
