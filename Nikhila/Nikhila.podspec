@@ -14,4 +14,5 @@
   s.resources = "Nikhila/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
   s.frameworks   = "CoreGraphics", "QuartzCore","UIKit"
   s.requires_arc = true
+  s.dependency 'Alamofire', '~> 4.7'
   end
